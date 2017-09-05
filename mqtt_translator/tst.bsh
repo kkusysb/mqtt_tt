@@ -1,0 +1,6 @@
+tele/sonoff/SENSOR {"Time":"1970-01-01T00:31:55", "DS18x20":{"DS1":{"Type":"DS18B20", "Address":"28E067BF08000059", "Temperature":26.2}, "DS2":{"Type":"DS18B20", "Address":"28CC70BF080000BF", "Temperature":26.1}, "DS3":{"Type":"DS18B20", "Address":"282E24BD08000075", "Temperature":26.1}, "DS4":{"Type":"DS18B20", "Address":"28AD24BE0800004E", "Temperature":26.1}, "DS5":{"Type":"DS18B20", "Address":"28FFA626A216055E", "Temperature":25.6}}, "TempUnit":"C"}
+
+
+
+tele/sonoff/SENSOR {""Time"":""1970-01-01T00:31:55"", ""DS18x20"":{""DS1"":{""Type"":""DS18B20"", ""Address"":""28E067BF08000059"", ""Temperature"":26.2}, ""DS2"":{""Type"":""DS18B20"", ""Address"":""28CC70BF080000BF"", ""Temperature"":26.1}, ""DS3"":{""Type"":""DS18B20"", ""Address"":""282E24BD08000075"", ""Temperature"":26.1}, ""DS4"":{""Type"":""DS18B20"", ""Address"":""28AD24BE0800004E"", ""Temperature"":26.1}, ""DS5"":{""Type"":""DS18B20"", ""Address"":""28FFA626A216055E"", ""Temperature"":25.6}}, ""TempUnit"":""C""}
+
